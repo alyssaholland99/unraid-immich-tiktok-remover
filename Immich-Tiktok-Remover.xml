@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Immich-Tiktok-Remover</Name>
-  <Repository>alyssaholland99/immich-tiktok-remover</Repository>
+  <Repository>alyssaholland99/immich-tiktok-remover:stable</Repository>
   <Registry/>
   <Support>https://github.com/alyssaholland99?tab=repositories</Support>
   <Project>https://github.com/mxc2/immich-tiktok-remover</Project>
