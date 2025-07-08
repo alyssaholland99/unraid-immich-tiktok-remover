@@ -3,6 +3,8 @@
   <Name>Immich-Tiktok-Remover</Name>
   <Repository>alyssaholland99/immich-tiktok-remover</Repository>
   <Registry/>
+  <Support>https://github.com/alyssaholland99?tab=repositories</Support>
+  <Project>https://github.com/mxc2/immich-tiktok-remover</Project>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>sh</Shell>
