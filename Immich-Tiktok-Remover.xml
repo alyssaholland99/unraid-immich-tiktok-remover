@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>Immich-Tiktok-Remover</Name>
+  <Repository>alyssaholland99/immich-tiktok-remover</Repository>
+  <Registry/>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project/>
+  <Overview/>
+  <Category/>
+  <WebUI/>
+  <TemplateURL/>
+  <Icon>https://raw.githubusercontent.com/alyssaholland99/unraid-immich-tiktok-remover/9e6a74869362d3bc11ee2ca478fafc9c0469402b/immich-tiktok-remover-nb.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled></DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+  <Config Name="IMMICH_URL" Target="IMMICH_URL" Default="" Mode="" Description="Example: https://immich.yourserver.co.uk/" Type="Variable" Display="always" Required="true" Mask="false"></Config>
+  <Config Name="IMMICH_API" Target="IMMICH_API" Default="" Mode="" Description="" Type="Variable" Display="always" Required="true" Mask="false"></Config>
+  <Config Name="RESTART_TIMEOUT" Target="RESTART_TIMEOUT" Default="3600" Mode="" Description="" Type="Variable" Display="always" Required="true" Mask="false">3600</Config>
+  <TailscaleStateDir/>
+</Container>
