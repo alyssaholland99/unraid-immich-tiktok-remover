@@ -1,0 +1,8 @@
+steps:
+  - name: yaml_validator
+    image: devatherock/drone-yaml-validator:latest
+    settings:
+      debug: false
+      continue_on_error: false
+      allow_duplicate_keys: false
+      ignore_unknown_tags: true
