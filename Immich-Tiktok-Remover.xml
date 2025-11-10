@@ -3,7 +3,7 @@
   <Name>Immich-Tiktok-Remover</Name>
   <Repository>alyssaholland99/immich-tiktok-remover:stable</Repository>
   <Registry/>
-  <Support>https://github.com/alyssaholland99?tab=repositories</Support>
+  <Support>https://forums.unraid.net/topic/194965-immich-tiktok-remover-support-thread/</Support>
   <Project>https://github.com/mxc2/immich-tiktok-remover</Project>
   <Network>bridge</Network>
   <MyIP/>
